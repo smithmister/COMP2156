@@ -1,0 +1,13 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "COMP2156 Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo \"NO CI Configured\""
+  },
+  "keywords": [],
+  "author": "M Smith",
+  "license": "ISC"
+}
