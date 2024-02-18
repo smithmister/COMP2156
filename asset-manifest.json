@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/d/static/css/main.f48a98bf.css",
-    "main.js": "/d/static/js/main.c2374739.js",
-    "index.html": "/d/index.html",
-    "main.f48a98bf.css.map": "/d/static/css/main.f48a98bf.css.map",
-    "main.c2374739.js.map": "/d/static/js/main.c2374739.js.map"
+    "main.css": "/COMP2156/static/css/main.f48a98bf.css",
+    "main.js": "/COMP2156/static/js/main.c2374739.js",
+    "index.html": "/COMP2156/index.html",
+    "main.f48a98bf.css.map": "/COMP2156/static/css/main.f48a98bf.css.map",
+    "main.c2374739.js.map": "/COMP2156/static/js/main.c2374739.js.map"
   },
   "entrypoints": [
     "static/css/main.f48a98bf.css",
