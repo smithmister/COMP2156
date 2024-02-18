@@ -17,6 +17,7 @@ export default class About extends Component {
                       <span className="heading-meta">About Us</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
+                        <h4>Mickiel Smith</h4>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Nostrum modi quis, ad dolores eos adipisci? Nisi
                         pariatur facere ducimus iusto quia veniam ipsum
